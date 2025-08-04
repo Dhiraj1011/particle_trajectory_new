@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import streamlit as st
+import plotly.graph_objects as go
 
 st.header("Motion of particle under external force (Classical and Electrodynamical)",divider='rainbow')
 
